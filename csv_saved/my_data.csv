@@ -1,0 +1,37 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Size,Founded,Type of ownership,Industry,Sector,Revenue
+0,Data Scientist,(Glassdoor est.),"Overview:
+Data Scientist
+Responsibilities:
+Job Description
+
+Contribute to the development of data pipelines, data storage architectures, web-based user interfaces, and data visualizations to support Public Diplomacy efforts
+Analyze global datasets for cross-platform reporting; provide insights into Public Diplomacy operations
+Qualifications:",4.7,"Delaware Nation Industries
+4.7","Washington, DC",201 to 500 Employees,-1,Contract,-1,-1,Unknown / Non-Applicable
+1,Data Scientist,(Glassdoor est.),"At Density, we build one of the most advanced people sensing systems in the world. The product and infrastructure is nuanced and one-of-a-kind. Building this product for scale has been an exercise in patience, creativity, remarkable engineering, laser physics, global logistics, and grit. The team is thoughtful, driven, and world-class.
+We build systems that are real-time, accurate, and anonymous by design. Our systems help today’s largest companies understand how their buildings get used. We have counted hundreds of millions of people.
+Counting people in “real-time” is unique and particularly hard to achieve. It allows a user to walk into a room, beneath our sensor, and see the room’s occupancy increment 700ms later.
+Today alone, Density will ingest over 1m events. In the coming year, our sensor network is on track to grow ten-fold. The overall system load is exploding. Maintaining our low latency standards requires an increasingly thoughtful system.
+We’re architecting infrastructure where annual, unscheduled downtime is measured in minutes. We’re building intelligent redundancies so missed events are an oddity. We’re constructing an exceptional engineering team to support always-on, intelligible analytics generated on the fly.
+This role reports to our Director of Data Science & Engineering.
+As a at Density, you will work on algorithms developed for applications deployed on state-of-the-art remote devices as well as our cloud platform. The data you will work with includes ToF depth data, point clouds from radar, and device parameters. Algorithms include computer vision segmentation identification, 3D point cloud surface analysis, and optimization algorithms for sensor tuning. Join a team of experienced data scientists as we expand what is possible.",4.7,"Density Inc.
+4.7",Remote,1 to 50 Employees,2014,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+2,"Data Scientist, Optum360 - Telecommute",(Glassdoor est.),"Combine two of the fastest-growing fields on the planet with a culture of performance, collaboration and opportunity and this is what you get. Leading edge technology in an industry that's improving the lives of millions. Here, innovation isn't about another gadget, it's about making health care data available wherever and whenever people need it, safely and reliably. There's no room for error. Join us and start doing your life's best work.(sm)
+
+Optum 360's Business Intelligence Analytics team is looking for an innovative individual with technical and interpersonal skills to support our vision of taking our organization to the next level by providing effective and actionable insights through implementation of AI models and advanced analytics.
+
+In this role you will be working alongside stakeholders, leadership, and a team of data scientists and engineers to develop innovative solutions and predictive and analytical models such as denials prediction model, risk based account scoring model, propensity to pay model to modernize revenue cycle and improve efficiency.",3.7,"UnitedHealth Group
+3.7","Eden Prairie, MN",10000+ Employees,1977,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+3,SENIOR DATA SCIENTIST (GLOBAL COMMERCIAL ANALYTICS- S&IP OPTIMIZATION),(Glassdoor est.),"Become a Part of the NIKE, Inc. Team
+
+
+NIKE, Inc. does more than outfit the world’s best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At NIKE, Inc. it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+
+NIKE, Inc. does more than outfit the world's best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At Nike, it’s about each person bringing skills and passion to a challenging and constantly evolving game.",4.1,"NIKE INC
+4.1","Tualatin, OR",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD)
+4,Data Scientist/User Engagement Liaison,(Glassdoor est.),"Key Responsibilities and Deliverables:
+· Services rendered will adhere to applicable Johnson & Johnson standard operating procedures (SOPs), work instructions (WIs), policies, local regulatory requirements, etc.
+· Responsible for the coordination of business engagement and user requirement definitions for specific projects, platforms and tools as assigned
+· Act as a contact point between Janssen business partners (Global Development, TAs, etc.) and the Janssen Data Science teams
+· Work collaboratively with other Janssen organizations as necessary (TAs, EBIS, IDAR, Quantitative Sciences, etc.)",4.9,"Medasource
+4.9",Remote,501 to 1000 Employees,2000,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
